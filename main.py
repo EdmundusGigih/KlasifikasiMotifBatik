@@ -225,7 +225,7 @@ def main():
     )
 
     # Path model
-    model_path = r"c:/Users/USER/Skripsi/Final Model Alexnet PSO.h5"
+    model_path = "Final Model Alexnet PSO.h5"
 
     # Coba load model
     model = load_colab_model(model_path)
